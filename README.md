@@ -554,21 +554,6 @@ plt.close(fig)
 
 
 
-## Result
-Face detection, eye detection, ROI extraction, and real-time webcam face detection with labels were successfully implemented using OpenCV's Haar Cascade classifiers.
-
-### Face Detection - Model with Glass
-<img width="660" height="656" alt="download" src="https://github.com/user-attachments/assets/35874b62-5684-4dbe-b014-746327ca392e" />
-
-### Face Detection - Model
-<img width="486" height="656" alt="download" src="https://github.com/user-attachments/assets/2c3ea944-d818-424d-b904-29145e5bb73c" />
-
-### Eye Detection - Model with Glass
-<img width="660" height="656" alt="download" src="https://github.com/user-attachments/assets/c0f5b8c6-de57-4a09-9ce7-272c8ada6ff5" />
-
-
-### Video Face Detection
-<img width="738" height="579" alt="download" src="https://github.com/user-attachments/assets/3e84b3a6-6ee3-4208-bf4d-36e9f9c72109" />
 
 
 ## Result
