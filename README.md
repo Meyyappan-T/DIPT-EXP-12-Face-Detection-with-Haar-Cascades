@@ -1,6 +1,6 @@
 # EXP-12 Face Detection with Haar Cascades
-### Name: LOKNAATH P
-### Reg.No: 212223240080
+### Name: Meyyappan T
+### Reg.No: 212223240086
 ## Aim
 To write a Python program using OpenCV to perform the following image manipulations:
 
